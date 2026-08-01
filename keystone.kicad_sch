@@ -20078,7 +20078,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 219.71 111.76 0)
+		(at 219.71 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20088,8 +20088,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f155339-11fd-437a-9119-ea5552992658")
-		(property "Reference" "S5"
-			(at 226.06 110.3629 0)
+		(property "Reference" "S4"
+			(at 226.06 100.2029 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20100,7 +20100,7 @@
 			)
 		)
 		(property "Value" "space"
-			(at 226.06 112.9029 0)
+			(at 226.06 102.7429 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20111,7 +20111,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_6.25u"
-			(at 219.71 111.76 0)
+			(at 219.71 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20122,7 +20122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 111.76 0)
+			(at 219.71 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20133,7 +20133,7 @@
 			)
 		)
 		(property "Description" "Cherry MX-style stabilizer"
-			(at 219.71 111.76 0)
+			(at 219.71 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20146,7 +20146,7 @@
 		(instances
 			(project "keystone"
 				(path "/ae8c5ff4-9086-4bb5-b154-b12861b622f7"
-					(reference "S5")
+					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -24651,82 +24651,6 @@
 			(project "keystone"
 				(path "/ae8c5ff4-9086-4bb5-b154-b12861b622f7"
 					(reference "D66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 219.71 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f16c17a-2213-41d8-af0b-4e102db14c5f")
-		(property "Reference" "S4"
-			(at 226.06 98.9329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 226.06 101.4729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 219.71 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 219.71 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 219.71 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "keystone"
-				(path "/ae8c5ff4-9086-4bb5-b154-b12861b622f7"
-					(reference "S4")
 					(unit 1)
 				)
 			)
