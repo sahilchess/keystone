@@ -8,6 +8,6 @@ a custom mechanical keyboard: cherry mx switches, rp2040?, oled, rgbs and more??
 4. use your mouse to pan and scroll to zoom
 
 ## progress
-![](https://geps.dev/progress/100?barColor=4472C4) ![](https://geps.dev/progress/100?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4)
+![](https://geps.dev/progress/100?barColor=4472C4) ![](https://geps.dev/progress/100?barColor=4472C4) ![](https://geps.dev/progress/46?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4) ![](https://geps.dev/progress/0?barColor=4472C4)
 
 week 2, schematic done, pcb started
